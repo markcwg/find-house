@@ -1,0 +1,9 @@
+spring:
+  elasticsearch:
+    rest:
+      uris: http://127.0.0.1:9200
+  application:
+    name: find-house
+
+server:
+  port: 8081
